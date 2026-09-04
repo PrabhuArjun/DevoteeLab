@@ -48,7 +48,12 @@ if [ ! -f lessons/МОИ_УРОКИ.md ]; then
 Записывайте сюда то, обо что споткнулись сами. Формат тот же: ситуация → грабля → как надо.
 Помощник читает оба файла и подсказывает из обоих.
 МОИ
-  echo "✅ Заведён lessons/МОИ_УРОКИ.md — сюда пишутся ВАШИ уроки"
+  if [ -s lessons/МОИ_УРОКИ.md ]; then
+    echo "✅ Заведён lessons/МОИ_УРОКИ.md — сюда пишутся ВАШИ уроки"
+  else
+    echo "⚠️  Не удалось завести lessons/МОИ_УРОКИ.md — свои уроки пока некуда писать."
+    echo "    Проверьте, что папка доступна для записи."
+  fi
 fi
 # --- Личные настройки владельца ---
 # Живут в config/lab.local.yaml (вне git — обновления их НЕ трогают).
@@ -56,14 +61,27 @@ fi
 # переносим их автоматически, чтобы ничего не потерялось.
 if [ ! -f config/lab.local.yaml ]; then
   if [ -f config/lab.yaml ] && grep -qE '^[a-z_]+: *"[^"]+"' config/lab.yaml; then
-    cp config/lab.yaml config/lab.local.yaml
-    echo "✅ Ваши прежние настройки перенесены в config/lab.local.yaml (обновления их не затрут)"
+    if cp config/lab.yaml config/lab.local.yaml 2>/dev/null && [ -s config/lab.local.yaml ]; then
+      echo "✅ Ваши прежние настройки перенесены в config/lab.local.yaml (обновления их не затрут)"
+    else
+      echo "⚠️  НЕ УДАЛОСЬ перенести прежние настройки в config/lab.local.yaml."
+      echo "    Ваши настройки остались в config/lab.yaml и при обновлении будут ЗАТЁРТЫ."
+      echo "    Скопируйте их вручную или скажите об этом помощнику."
+    fi
   elif [ -f config/lab.yaml.example ]; then
-    cp config/lab.yaml.example config/lab.local.yaml
-    echo "✅ Создан config/lab.local.yaml — сюда помощник запишет ваши настройки"
+    if cp config/lab.yaml.example config/lab.local.yaml 2>/dev/null && [ -s config/lab.local.yaml ]; then
+      echo "✅ Создан config/lab.local.yaml — сюда помощник запишет ваши настройки"
+    else
+      echo "⚠️  НЕ УДАЛОСЬ создать config/lab.local.yaml — помощнику некуда записать настройки."
+      echo "    Проверьте, что папка config доступна для записи."
+    fi
   fi
 fi
-echo "✅ Папки готовы: INBOX (входящие), notes (дневник), work (работа по направлениям)"
+if [ -d INBOX ] && [ -d notes ] && [ -d work ]; then
+  echo "✅ Папки готовы: INBOX (входящие), notes (дневник), work (работа по направлениям)"
+else
+  echo "⚠️  Не все рабочие папки созданы — проверьте права на запись в этой папке."
+fi
 echo ""
 echo "───────────────────────────────────────────────"
 echo " Открываю первый разговор. Помощник представится"
