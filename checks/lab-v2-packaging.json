@@ -1,0 +1,157 @@
+{
+  "release": "DevoteeLab portable 2.0",
+  "date": "2026-11-24",
+  "bundle_sha256": "d6ba601e873407b76a47e7e7f6a8ca1beff79046d2f034d2d72796950bedcdf7",
+  "bundle_bytes": 206935,
+  "file_count": 47,
+  "history_records": 239,
+  "controls": 50,
+  "recent_rules": 17,
+  "checks": [
+    {
+      "check": "full_extraction_byte_for_byte",
+      "status": "PASS"
+    },
+    {
+      "check": "existing_destination_refused",
+      "status": "PASS"
+    },
+    {
+      "check": "existing_data_preserved",
+      "status": "PASS"
+    },
+    {
+      "check": "symlink_parent_refused",
+      "status": "PASS"
+    },
+    {
+      "check": "parent_traversal_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "absolute_path_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "backslash_path_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "git_metadata_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "windows_drive_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "windows_reserved_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "duplicate_path_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "case_collision_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "file_directory_collision_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "tampered_bytes_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "truncated_bundle_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "unlisted_block_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "trailing_instruction_refused_before_write",
+      "status": "PASS"
+    },
+    {
+      "check": "no_escape_written",
+      "status": "PASS"
+    },
+    {
+      "check": "all_json_and_python_parse",
+      "status": "PASS"
+    },
+    {
+      "check": "six_discoverable_skill_definitions",
+      "status": "PASS"
+    },
+    {
+      "check": "skill_frontmatter_and_triggers",
+      "status": "PASS"
+    },
+    {
+      "check": "single_primary_dev_and_readonly_reviewer_definition",
+      "status": "PASS"
+    },
+    {
+      "check": "all_239_historical_records_present",
+      "status": "PASS"
+    },
+    {
+      "check": "all_50_controls_and_history_references_resolve",
+      "status": "PASS"
+    },
+    {
+      "check": "historical_reversal_preserved",
+      "status": "PASS"
+    },
+    {
+      "check": "source_coverage_matches_bundle",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_private_host_path",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_private_infrastructure",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_email",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_native_uuid",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_credential_value",
+      "status": "PASS"
+    },
+    {
+      "check": "public_scan_phone",
+      "status": "PASS"
+    },
+    {
+      "check": "public_urls_allowlisted",
+      "status": "PASS"
+    },
+    {
+      "check": "bundle_external_manifest_matches",
+      "status": "PASS"
+    }
+  ],
+  "checked_by": "author self-check in isolated workspace",
+  "independent_review": "NOT_RUN",
+  "recipient_cloud_installation": "NOT_RUN",
+  "recipient_agent_and_skill_execution": "NOT_RUN",
+  "recipient_private_github_readback": "NOT_RUN",
+  "recipient_tablets_and_vault": "NOT_RUN",
+  "historical_incidents_live_recheck": "NOT_RUN; this is a sanitized history and prevention package, not a fresh audit of all old products",
+  "publication_readback": "recorded separately after publishing",
+  "privacy_scope": "New portable bundle and coverage; private raw logs and values are not included."
+}

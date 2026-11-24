@@ -1,0 +1,2330 @@
+{
+  "format": "public-redacted-history-coverage-v2",
+  "source_sha256": "0d5c12b6b30f4d4657caa5ab5ef4fc5a13b0efef58e64f0d415b5f9f1903bc24",
+  "iso_heading_records": 223,
+  "additional_records": 16,
+  "public_records": 239,
+  "note": "Hashes identify private source blocks; private originals are not included or made public. Current safeguards are editorial adaptations, not blanket claims of verified old fixes.",
+  "records": [
+    {
+      "id": "H001",
+      "date": "2026-09-23",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C18"
+      ],
+      "source_record_sha256": "1587deb07bafda8322576fccd0dc4880c2add8c5284a054cca9f7645ef61a2a2"
+    },
+    {
+      "id": "H002",
+      "date": "2026-09-22",
+      "type": "Исторический разбор",
+      "controls": [
+        "C02"
+      ],
+      "source_record_sha256": "32a3ef7085287990c22f313a784731fa746fd2bc9a20a43726c5991c00045a31"
+    },
+    {
+      "id": "H003",
+      "date": "2026-09-22",
+      "type": "Исторический разбор",
+      "controls": [
+        "C03"
+      ],
+      "source_record_sha256": "c1f3947c1d7e8dc4b353162878313604826786401698c27f429b32e26f1971dc"
+    },
+    {
+      "id": "H004",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C04"
+      ],
+      "source_record_sha256": "7789311bdbb906dc0931ddcaff866b4417c664b3def69627ff5335da64580077"
+    },
+    {
+      "id": "H005",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C02"
+      ],
+      "source_record_sha256": "94174aa5734a86f65c38b336b2c748efdd34ed2cf4086a1598ab684e57cd36b9"
+    },
+    {
+      "id": "H006",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C03"
+      ],
+      "source_record_sha256": "1a556f3d640b0a05e93423708a7f0b9a1acbb018521ec2c39fba778d1b67bd4b"
+    },
+    {
+      "id": "H007",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C01"
+      ],
+      "source_record_sha256": "bfdfab180bd98b81e5e96992195e88a500a1e1146c6c408f47cbcbb502eadefd"
+    },
+    {
+      "id": "H008",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "fdf7c254fa25b4cc5e15983451c5b51c72b64abe188bd03461d85cc8dc1bbc7e"
+    },
+    {
+      "id": "H009",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C02",
+        "C19"
+      ],
+      "source_record_sha256": "98230a665dd074b1c7c1ea1b8c821203709663448ab7768b0b2521e7a91b1555"
+    },
+    {
+      "id": "H010",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C12",
+        "C14"
+      ],
+      "source_record_sha256": "93595614962747c680d6e449181c2e9511c5d4ba1a94d46efb4f124a9122235b"
+    },
+    {
+      "id": "H011",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C38",
+        "C05"
+      ],
+      "source_record_sha256": "6c9ad0558aac402fe1768f7f36b672cd207f5bb7a2994209fe8f08735c5c800c"
+    },
+    {
+      "id": "H012",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C38"
+      ],
+      "source_record_sha256": "c76682a337f74b054a142b4883e7d698123a8bd096434cf185a610e7d7882ee8"
+    },
+    {
+      "id": "H013",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C02"
+      ],
+      "source_record_sha256": "f819d3e3a57371b454a88854bf4134a49f34ef0eb77afe456389d7c08d0c641d"
+    },
+    {
+      "id": "H014",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06"
+      ],
+      "source_record_sha256": "547bd70b3fe7a7794150fa0036c466914aac9d89951057851fab994668233e0c"
+    },
+    {
+      "id": "H015",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07"
+      ],
+      "source_record_sha256": "60a684c84581e4bac8de9e75d37f4c02a255740855da15dd93addeab16f63d1c"
+    },
+    {
+      "id": "H016",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C08"
+      ],
+      "source_record_sha256": "dc16b3c80803be08c6e8599c5aecda86d1b7f1bfd1557dc024ae0261866f8197"
+    },
+    {
+      "id": "H017",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C10"
+      ],
+      "source_record_sha256": "d6496787f62b2dd98bb993f68c22e3e861a734f87c3abf48113835ba733aebee"
+    },
+    {
+      "id": "H018",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "1ffda71cda724f480555a72bbecfdff299f1353685129e04b0cf020cc15c48c8"
+    },
+    {
+      "id": "H019",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C11"
+      ],
+      "source_record_sha256": "bd43319e3dbecf15370893b4191f5e4b0ac7d096ac179da149aaecb9d679f56f"
+    },
+    {
+      "id": "H020",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C06"
+      ],
+      "source_record_sha256": "d24194409960da31bf953fa452a6872956f226ab87a94761dbf736d04a6537c5"
+    },
+    {
+      "id": "H021",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C10"
+      ],
+      "source_record_sha256": "709de7c8f714a8a7342b61bc47247f070bbb9cc152340cbcc1bc5c97899585da"
+    },
+    {
+      "id": "H022",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "8ccc918f239e8bf1bc4bad55cecd1c44c2bb7a5964a190f059645c611c8a0244"
+    },
+    {
+      "id": "H023",
+      "date": "2026-09-18",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07",
+        "C02"
+      ],
+      "source_record_sha256": "2ddc10abf8aa34bb769ed98c92204f9f621654060653625d4488ae63e69e7f2f"
+    },
+    {
+      "id": "H024",
+      "date": "2026-09-18",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C09"
+      ],
+      "source_record_sha256": "bf815de3c45761130373329fdf4210630f20e4d52e964146da7ddfffbb9a1f23"
+    },
+    {
+      "id": "H025",
+      "date": "2026-09-18",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C07"
+      ],
+      "source_record_sha256": "8c738c28470c20ed40f5dabd7bd5d8bfa49bd3f41c5b7b9f3823ebb665fb7bc0"
+    },
+    {
+      "id": "H026",
+      "date": "2026-09-18",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C19"
+      ],
+      "source_record_sha256": "399f4ee757ecc8079272c6ea1465431a7bc13cde034f929c55a69724a1daa051"
+    },
+    {
+      "id": "H027",
+      "date": "2026-09-18",
+      "type": "Исторический разбор",
+      "controls": [
+        "C03",
+        "C12"
+      ],
+      "source_record_sha256": "7908d6132f03f7db8d83cb637a3aab5e7362faaa53e64c32b96664930b2aaafb"
+    },
+    {
+      "id": "H028",
+      "date": "2026-09-17",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07",
+        "C15"
+      ],
+      "source_record_sha256": "dacc48afb8aac28ae01bb5a613fbf48d425f388da88ac5e3cd792ad6cfb02bb6"
+    },
+    {
+      "id": "H029",
+      "date": "2026-09-17",
+      "type": "Исторический разбор",
+      "controls": [
+        "C12",
+        "C03"
+      ],
+      "source_record_sha256": "e135ee5e89abfdc7582e8dd9ecb31056f85c1b8fe5b9adcf4552a08e25a683fe"
+    },
+    {
+      "id": "H030",
+      "date": "2026-09-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C12"
+      ],
+      "source_record_sha256": "8fa038f8010a1cd1f6a208e885f43f6e9d22f87db0a010e9f07fb2e8dbf379d9"
+    },
+    {
+      "id": "H031",
+      "date": "2026-09-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C12"
+      ],
+      "source_record_sha256": "74c8951cb4f2c0db357ccbc0c20735a83de8ee7c044bb5ba0de5b48494943a37"
+    },
+    {
+      "id": "H032",
+      "date": "2026-09-15",
+      "type": "Исторический разбор",
+      "controls": [
+        "C12"
+      ],
+      "source_record_sha256": "c51f4420389acf4501dd28d344e326f62d7d83af770bf2264bf6bf1be9a61c07"
+    },
+    {
+      "id": "H033",
+      "date": "2026-09-14",
+      "type": "Исторический разбор",
+      "controls": [
+        "C13"
+      ],
+      "source_record_sha256": "ef23de3c98956cdb7753cab078649ad9fc38e3ec0edafdcb84ab62632dbd995d"
+    },
+    {
+      "id": "H034",
+      "date": "2026-09-13",
+      "type": "Исторический разбор",
+      "controls": [
+        "C02",
+        "C03"
+      ],
+      "source_record_sha256": "f57fdf84808e0e61283142e7875fd602924e702b56aa6986f61f763938a72c90"
+    },
+    {
+      "id": "H035",
+      "date": "2026-09-13",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "881f8a8d5c6e028300c793bcf66cd8eef4d309f125ccd3dbf6527b58b2354c28"
+    },
+    {
+      "id": "H036",
+      "date": "2026-09-11",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C30"
+      ],
+      "source_record_sha256": "54849bdb018c2c71989a3583d39b2f8c4b8f5cda777594ff0a8e8e9b22f2fc62"
+    },
+    {
+      "id": "H037",
+      "date": "2026-09-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C16"
+      ],
+      "source_record_sha256": "f3e12bec7332e098e41adc28986da1f90b1fa9c71fc3a30b939d1e0395a744a1"
+    },
+    {
+      "id": "H038",
+      "date": "2026-09-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C30"
+      ],
+      "source_record_sha256": "0367ab445988f26f64d3fcbb8c307c40ff63fc3c055f0a9111bac822b6312c41"
+    },
+    {
+      "id": "H039",
+      "date": "2026-09-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C10",
+        "C18"
+      ],
+      "source_record_sha256": "2457f7a3a056c2b884ec9909d4b235f15ecd8a35c1286395a0fa59d4b722dce6"
+    },
+    {
+      "id": "H040",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C19"
+      ],
+      "source_record_sha256": "94f416ca6ffa8df7e6555395c4e4fdf0326ddf1d9467f0248e7898c1d274960c"
+    },
+    {
+      "id": "H041",
+      "date": "2026-09-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01"
+      ],
+      "source_record_sha256": "afa01708c40dfdce026bfcdfdd679315c92f40930e316da784ccff5bce8e3a7f"
+    },
+    {
+      "id": "H042",
+      "date": "2026-09-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C13",
+        "C14"
+      ],
+      "source_record_sha256": "135f1b00b47b6d5a32e38bfb0e690e4dfd112d1bbfa26422608cb423f77b2e10"
+    },
+    {
+      "id": "H043",
+      "date": "2026-09-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C11"
+      ],
+      "source_record_sha256": "a2683ade245578bdb6827318a25735b9d87fe81a559c5601e5266bd37a406894"
+    },
+    {
+      "id": "H044",
+      "date": "2026-09-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C11"
+      ],
+      "source_record_sha256": "3afb133180bf20450ea4eebe207d40ca06ccc4ff7e2e84619c1520457fb3b6d8"
+    },
+    {
+      "id": "H045",
+      "date": "2026-09-04",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C13"
+      ],
+      "source_record_sha256": "f1937db83b2274996d44daceee7ab9ee2063ead9dc5de42937349538e5af735d"
+    },
+    {
+      "id": "H046",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C05"
+      ],
+      "source_record_sha256": "ec7b93ec2f629973df0f4a3bc445e7874dd7d2b5d979c2673bb7c7bcbf415c73"
+    },
+    {
+      "id": "H047",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C02"
+      ],
+      "source_record_sha256": "23ed517d1e61d32975d4666ccea645329680e87096714f99ed79d0c87aea0a92"
+    },
+    {
+      "id": "H048",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "54d7a2d09ac13dada4f3a927c0064fab0c633e37f273efcc9827c7554923e7be"
+    },
+    {
+      "id": "H049",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C03"
+      ],
+      "source_record_sha256": "38329009c58640505c19b9234b535f86d42a0b5a77719fa755c2d6605a08b879"
+    },
+    {
+      "id": "H050",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C21"
+      ],
+      "source_record_sha256": "d79aeda8b94c31ddc4e4b9aada9dba958cf32c4f357fb4a1d99c4c23df442e57"
+    },
+    {
+      "id": "H051",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C37"
+      ],
+      "source_record_sha256": "0ec5281b458b4376a8e9fdb62459b101ecfffb5fef8d3850b73301ba6e10700c"
+    },
+    {
+      "id": "H052",
+      "date": "2026-09-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C38"
+      ],
+      "source_record_sha256": "96e4ea3155f9e06c21718eff7730cba7392cc9a26f6573a86bcaf557d3980c06"
+    },
+    {
+      "id": "H053",
+      "date": "2026-09-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15"
+      ],
+      "source_record_sha256": "28d49950141154ff7ac7696ad5a6c158fb41e89afd43d04e2519c4fdef8bd336"
+    },
+    {
+      "id": "H054",
+      "date": "2026-09-01",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C19"
+      ],
+      "source_record_sha256": "37fb31618971222e9d29519f8c21fd1c7cb9afa1dc9b55ea3a1e6cb17074b2ec"
+    },
+    {
+      "id": "H055",
+      "date": "2026-09-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26",
+        "C20"
+      ],
+      "source_record_sha256": "b576504238376bb1a6f4446fe0f5e5491a7ee15e83bb2058a1747364748f471f"
+    },
+    {
+      "id": "H056",
+      "date": "2026-09-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C03"
+      ],
+      "source_record_sha256": "2f9f8571c0db2150cdbf3bec04fee53b532ba8156caa444a0dc3536729bd52be"
+    },
+    {
+      "id": "H057",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C03",
+        "C31"
+      ],
+      "source_record_sha256": "80b1c28aa8af9e6d54ecc1ce17517e22e24cb2c3bbe1fe446609e2a4b2bb0ba7"
+    },
+    {
+      "id": "H058",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C20"
+      ],
+      "source_record_sha256": "275a787c15b00e1027cfd4df3f82f0f83a5dc78fb46374f4402c8d5f7f8d3904"
+    },
+    {
+      "id": "H059",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17"
+      ],
+      "source_record_sha256": "ca58361e49d901742c40545797430db20dbe8b8f3cac9bf838ebb271864a403e"
+    },
+    {
+      "id": "H060",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07"
+      ],
+      "source_record_sha256": "e30d5836ff729c0812adea6c7134c78f6992c393fe6ad31d9d1fcd63e0037a37"
+    },
+    {
+      "id": "H061",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C17"
+      ],
+      "source_record_sha256": "d7b892b47fe4869b14daf2ba5b2a6f3de93dbddbeec7949ad1c71931df6b9cc1"
+    },
+    {
+      "id": "H062",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C23"
+      ],
+      "source_record_sha256": "c29de02b6f35b8f2d168fb9db3ae7f7ef4ab16a92068fb83c92e4afaab4de825"
+    },
+    {
+      "id": "H063",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C10",
+        "C06"
+      ],
+      "source_record_sha256": "67afdbcd11393b3c5e014a128f3dc503b5934dcc086170b4cd80d941311bdf32"
+    },
+    {
+      "id": "H064",
+      "date": "2026-08-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C02"
+      ],
+      "source_record_sha256": "29eb64255552fc2e06bdef159c8053da61f478e40de26a2b036947b360c858c3"
+    },
+    {
+      "id": "H065",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C19"
+      ],
+      "source_record_sha256": "92a2ab4e4f239c993fdceaa33916f83bfd2cc0eb2cd0e0ec0089009be1f5ac57"
+    },
+    {
+      "id": "H066",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C13"
+      ],
+      "source_record_sha256": "bb65eb6e1b251a34c5bba7434401d6e3dda98145c45d74368069f93f39282b43"
+    },
+    {
+      "id": "H067",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C08",
+        "C09"
+      ],
+      "source_record_sha256": "48ebaad4ee7486be800ba322ebd1f849b9a7b2375ebd3cf3bc53b2f9b7acdc63"
+    },
+    {
+      "id": "H068",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26"
+      ],
+      "source_record_sha256": "b40e35275c27323847264b3c8d887e32035354e11ca7a7dbc32ffdeaef6e52cf"
+    },
+    {
+      "id": "H069",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C13"
+      ],
+      "source_record_sha256": "43afd5b7bb063da8ce7681245bcd4614f2b8e643fff0750ead76664b44598748"
+    },
+    {
+      "id": "H070",
+      "date": "2026-08-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C11"
+      ],
+      "source_record_sha256": "d4d2e72bbffedc2dd9ba9436ff9477b8637e8ad80f7c257c0a672b957852657e"
+    },
+    {
+      "id": "H071",
+      "date": "2026-09-04",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24",
+        "C27"
+      ],
+      "source_record_sha256": "2ccda31e968f79ae4ce5eaf02e4b00b6a79ec3ec504cb4be547960a3acf9469b"
+    },
+    {
+      "id": "H072",
+      "date": "2026-08-29",
+      "type": "Исторический разбор",
+      "controls": [
+        "C03"
+      ],
+      "source_record_sha256": "48d62b4b726756bf926bd04b9b8a9fad38a7b633f3355485e9f5a97335f6d7f3"
+    },
+    {
+      "id": "H073",
+      "date": "2026-08-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "828da232432e601c82fac109909de2df3800751a2e5d39b9fa4730a26d7a89ba"
+    },
+    {
+      "id": "H074",
+      "date": "2026-08-29",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C18"
+      ],
+      "source_record_sha256": "d208e262448e1272913b066b835c38024db50287a06539a9b1ef989539ea6764"
+    },
+    {
+      "id": "H075",
+      "date": "2026-08-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18"
+      ],
+      "source_record_sha256": "7b95314a90c45b545e156a62675e764dacfc4734fb67c2c2afbd9510a69c0cba"
+    },
+    {
+      "id": "H076",
+      "date": "2026-08-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16"
+      ],
+      "source_record_sha256": "8e4c756976fa68070991741fe4b529a44d268bfc7663d9938ebbf956a00f427a"
+    },
+    {
+      "id": "H077",
+      "date": "2026-08-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "fcfb9da65e0a288ebf2ef8ed76a0415a2baf6d27e4e23a00a0bb9795878b037b"
+    },
+    {
+      "id": "H078",
+      "date": "2026-08-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16"
+      ],
+      "source_record_sha256": "61ee0c41d6ef767a3210c2d9ae519e64c611cd9668f1875c0a3c4dc4854d7ac8"
+    },
+    {
+      "id": "H079",
+      "date": "2026-08-25",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C32"
+      ],
+      "source_record_sha256": "9b2317104e9051cebbc3476f1829c0ade106118cfc99362520339d4d5a3a33c2"
+    },
+    {
+      "id": "H080",
+      "date": "2026-08-25",
+      "type": "Исторический разбор",
+      "controls": [
+        "C19",
+        "C02"
+      ],
+      "source_record_sha256": "31e348b6dd2fdfdc4d5ee149bb036e87e465d51e8ed61689b2d2d1f3dd76df2e"
+    },
+    {
+      "id": "H081",
+      "date": "2026-08-24",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C18"
+      ],
+      "source_record_sha256": "7323c97234a6f8edc5ea8eb17ccdae9886d3cdcfaff2e9e8c6022d2ad0e8df1a"
+    },
+    {
+      "id": "H082",
+      "date": "2026-08-24",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C14"
+      ],
+      "source_record_sha256": "e1a037a3f8df7c926d1af44527846b524e105fdc125ed2443fb0a54c2961e8ad"
+    },
+    {
+      "id": "H083",
+      "date": "2026-08-23",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26"
+      ],
+      "source_record_sha256": "d4ada2581e9aa789b1b2cb5526b05b465a0764a3de286320c591f7528a94c629"
+    },
+    {
+      "id": "H084",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C32"
+      ],
+      "source_record_sha256": "a74895e7f62a4b233f64c8149e3b86a80b001cdd4b361976fe0f5dbc531dce13"
+    },
+    {
+      "id": "H085",
+      "date": "2026-08-15",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C22"
+      ],
+      "source_record_sha256": "7e117b8efc6d02a55782436d840a66ff18abc106bc35346ffea5e691bbe489c4"
+    },
+    {
+      "id": "H086",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C05"
+      ],
+      "source_record_sha256": "8fa1e430bd500ffbb9d259c08f4b1cc34d59c905b9ffd52ec770716e1bff6925"
+    },
+    {
+      "id": "H087",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C02"
+      ],
+      "source_record_sha256": "dc87e239a09800e1427a940c2067712c9eb014d88f508c18d8b0ce86e7ec4bd2"
+    },
+    {
+      "id": "H088",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24"
+      ],
+      "source_record_sha256": "beb5479d7985338c2cbf62276b77a4ce186fd73777d55fdb1dfbb60cb71dccf7"
+    },
+    {
+      "id": "H089",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25",
+        "C28"
+      ],
+      "source_record_sha256": "d5136d76c1c5464d5d180b1a35522a765c670c73189e29f2e1308545690fbe04"
+    },
+    {
+      "id": "H090",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28"
+      ],
+      "source_record_sha256": "fa558eead6b43f44e1854f90bdbebaa7b174373adbdc0e1b45a7eeb887134f10"
+    },
+    {
+      "id": "H091",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C13"
+      ],
+      "source_record_sha256": "00160d07fbd564eea85b59bf0df3e2dcae9e835315f810d7d6f423ba2cabf60b"
+    },
+    {
+      "id": "H092",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C06"
+      ],
+      "source_record_sha256": "dcb96ecf2d775d093d10dd52f596309ced83ec921c30878a6e69a7f352e357c0"
+    },
+    {
+      "id": "H093",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16",
+        "C29"
+      ],
+      "source_record_sha256": "c49d3a772a505cdd18c56434aae5d986407863752fe9cb9e2ef9bd48d511081e"
+    },
+    {
+      "id": "H094",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25"
+      ],
+      "source_record_sha256": "647e31806d1c5105027fefbb9e67f0501c79e052ac86e109e246064b2adca68b"
+    },
+    {
+      "id": "H095",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C45",
+        "C06"
+      ],
+      "source_record_sha256": "e34206b00b4cfb0bc75d4ba9b1821823b6af63804f7f34535a03a13e6e3bf2a3"
+    },
+    {
+      "id": "H096",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C30",
+        "C20"
+      ],
+      "source_record_sha256": "52818d632f85e8e9b2ce52efa69ac64d52fb6213f6869d2e425026a5186d55a6"
+    },
+    {
+      "id": "H097",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C20"
+      ],
+      "source_record_sha256": "d1f59d7a5fe6cc65f3c1a63687773696083e93f46daa58e549324dd39f9a6a87"
+    },
+    {
+      "id": "H098",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25"
+      ],
+      "source_record_sha256": "46d2f8676e2fe2046b0a6b462401f7e5297ebc67107fe612a9d5dae8fa6bc76f"
+    },
+    {
+      "id": "H099",
+      "date": "2026-08-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C03"
+      ],
+      "source_record_sha256": "c02438a1fb7e2b62cf4172339cd3696426e95a49df7f8882e3acfb55626c7627"
+    },
+    {
+      "id": "H100",
+      "date": "2026-08-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C32"
+      ],
+      "source_record_sha256": "e4a9583be134259964d81f06184f9f28f74f1578ff51a85e929765893a49519d"
+    },
+    {
+      "id": "H101",
+      "date": "2026-08-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C10"
+      ],
+      "source_record_sha256": "8fb96e38ddca4aeb43f9667310c58e766dd2b14dcb75447e0f4ff59718a2be48"
+    },
+    {
+      "id": "H102",
+      "date": "2026-08-04",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C15"
+      ],
+      "source_record_sha256": "9d44d4c83a0ee7fa8ad3e613a37d8da75b2f166a58487eee3b6dc94b186515fa"
+    },
+    {
+      "id": "H103",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C30"
+      ],
+      "source_record_sha256": "a9aa3c5bb684203cb0d77b9afcd1113fb4812a0a5dfa13d90305f58ecf1b1d00"
+    },
+    {
+      "id": "H104",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C20"
+      ],
+      "source_record_sha256": "221031437f582307b64d4ef9d510cbf2b3183749a5c5bf626ffd8e4f93e369b7"
+    },
+    {
+      "id": "H105",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07",
+        "C20"
+      ],
+      "source_record_sha256": "6c9aabcc5d4dbc6ef31d5f92fcf615ad89f94bc5ed4483f6efb9e947cc2cc4de"
+    },
+    {
+      "id": "H106",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C06"
+      ],
+      "source_record_sha256": "6722a36a38a438c39793bd4d5cc6c84e2215d780b71ec6efc77f1ca47e583d55"
+    },
+    {
+      "id": "H107",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C18"
+      ],
+      "source_record_sha256": "800d568cd0ed8bf091d75632d034f1ae17de91a2dd270f24b93fea80462a4873"
+    },
+    {
+      "id": "H108",
+      "date": "2026-08-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17",
+        "C05"
+      ],
+      "source_record_sha256": "4ce8c824484ff6b22a42b52a38a15565160f925ee9ccb296b4d3aef8fc8bfdfe"
+    },
+    {
+      "id": "H109",
+      "date": "2026-08-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C03"
+      ],
+      "source_record_sha256": "a556c0c1a225c9a4e9a0a7a13e0190b6fbe2e9029b5abb9d0b87036edf078839"
+    },
+    {
+      "id": "H110",
+      "date": "2026-08-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17"
+      ],
+      "source_record_sha256": "d344e45f08910266e0194564c9a9af1a3107fd9158091e1d51e6fcdf663a06be"
+    },
+    {
+      "id": "H111",
+      "date": "2026-08-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C32"
+      ],
+      "source_record_sha256": "cfd460094541ed48239a1aea70b32faaa1add28b1d9c323713a3143bab5f8e10"
+    },
+    {
+      "id": "H112",
+      "date": "2026-07-27",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C26"
+      ],
+      "source_record_sha256": "8640302b05aa03605903b22241e3d2f08bfee3e6d8f6c8f98ce712e4fa61b838"
+    },
+    {
+      "id": "H113",
+      "date": "2026-07-26",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C05",
+        "C13"
+      ],
+      "source_record_sha256": "a749cc417e9e9a22cc3681196583ca0364b71eba95aaad21811e9844150277a2"
+    },
+    {
+      "id": "H114",
+      "date": "2026-07-24",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "0f56288e8be6aaeae58c40cf6953e5138718083aad25bb369b1d7d7d9099d2d0"
+    },
+    {
+      "id": "H115",
+      "date": "2026-07-24",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C20"
+      ],
+      "source_record_sha256": "609d9c1cc514ae5ecc6a9d1b6abdb199682a81c6e572134dd8ccd9a4ac7b2a19"
+    },
+    {
+      "id": "H116",
+      "date": "2026-07-23",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16",
+        "C20"
+      ],
+      "source_record_sha256": "9a24b54348fc5131222c5f69c81d3f6eb54b7fd677bd3f2df3a6462ff9718847"
+    },
+    {
+      "id": "H117",
+      "date": "2026-07-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17",
+        "C36"
+      ],
+      "source_record_sha256": "5bd20011d7d393f97efd8367bf02db001d71a67910616d84553d5fc17801f545"
+    },
+    {
+      "id": "H118",
+      "date": "2026-07-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C21"
+      ],
+      "source_record_sha256": "f198d68d20deb9105b6a2bac3ca727e724459f534b33f99f0a84209fee0c11bc"
+    },
+    {
+      "id": "H119",
+      "date": "2026-07-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20"
+      ],
+      "source_record_sha256": "c3db0ca25de27f7ac706d50f9569e41acdf01080d2900b39d76934ac71ef58b4"
+    },
+    {
+      "id": "H120",
+      "date": "2026-07-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C28"
+      ],
+      "source_record_sha256": "4964bb404b0e0e438ea35c8f1add1d01f0b6c06a0dce4b89b2e3b9a113c7815a"
+    },
+    {
+      "id": "H121",
+      "date": "2026-07-16",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C19",
+        "C05"
+      ],
+      "source_record_sha256": "66835e4896306a6e059a04172de41f5ba79f520dd4451b48ca391ce70de55695"
+    },
+    {
+      "id": "H122",
+      "date": "2026-07-14",
+      "type": "Исторический разбор",
+      "controls": [
+        "C23"
+      ],
+      "source_record_sha256": "9a8bff9be7777e3fadd71f8b2a778394d0a4de3babc152e8da9367fb164d2773"
+    },
+    {
+      "id": "H123",
+      "date": "2026-07-03",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C09",
+        "C05"
+      ],
+      "source_record_sha256": "9f066289578c312fc6754735fcbb4a61677e6cac1a5e68c1a4448787cab9a719"
+    },
+    {
+      "id": "H124",
+      "date": "2026-07-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C12"
+      ],
+      "source_record_sha256": "2523679f40fa7c15459c9798d3a6fb9153742251d07ae104dd68a0869b5e8871"
+    },
+    {
+      "id": "H125",
+      "date": "2026-07-02",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C18",
+        "C19"
+      ],
+      "source_record_sha256": "0668936ff2f9eff6e89972cad9ab0b547a8f91a10cbb97bcd6dd56e0fb90d482"
+    },
+    {
+      "id": "H126",
+      "date": "2026-07-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C32"
+      ],
+      "source_record_sha256": "32830bc732fcddb337d37b7171f228fa294a023cedbba741f23285030ab6abde"
+    },
+    {
+      "id": "H127",
+      "date": "2026-07-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16"
+      ],
+      "source_record_sha256": "7eafbc1945901fac5517bf10372f0025b7e6edae040775271dfcf0e585513a78"
+    },
+    {
+      "id": "H128",
+      "date": "2026-07-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C21"
+      ],
+      "source_record_sha256": "5b14cd8775ba9704e93ff1db88f5c0ce2f6b3a82a868251349418990cd63d6f7"
+    },
+    {
+      "id": "H129",
+      "date": "2026-07-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "8537d8f83e221c13c70b36a5c6cff6dd01788a87fd9f42f7edbdb17852a671e0"
+    },
+    {
+      "id": "H130",
+      "date": "2026-07-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C27",
+        "C24"
+      ],
+      "source_record_sha256": "c99f9e8f9bb70bb3fdaff631a54096a96b94215547519ee41225e24314d32079"
+    },
+    {
+      "id": "H131",
+      "date": "2026-06-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24"
+      ],
+      "source_record_sha256": "95df62b0b30800980d67344981f86c1e24ed742003ffd3464339ccc29749b2d7"
+    },
+    {
+      "id": "H132",
+      "date": "2026-06-25",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C24"
+      ],
+      "source_record_sha256": "6e4b8ec3c30e14e862ffe17e3454279be084e4d35f9c36ac773b71555b627093"
+    },
+    {
+      "id": "H133",
+      "date": "2026-06-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C11",
+        "C05"
+      ],
+      "source_record_sha256": "6267e71305e3207e5bc17b4817d56a7707cbee8cd53d59c07184670da68abcc6"
+    },
+    {
+      "id": "H134",
+      "date": "2026-06-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C08"
+      ],
+      "source_record_sha256": "dde0ea4dd506a58436d7ce41a52ad371e53c4a2ccdd327bf584c0a77f8e7156a"
+    },
+    {
+      "id": "H135",
+      "date": "2026-06-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C09"
+      ],
+      "source_record_sha256": "ec0792c77aa1a6e83bb08c350638247c8356dbf29e4465c4c335dfb429a46769"
+    },
+    {
+      "id": "H136",
+      "date": "2026-06-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "86f6ea7546d4804a1ee3dc9b1041fc85063867283664b02a53e3ba68dedede7c"
+    },
+    {
+      "id": "H137",
+      "date": "2026-06-17",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "047d61a3c80f5d6db8b9c298e9cbb2a2cbaec1b76e2f8505cb97240b9ff25592"
+    },
+    {
+      "id": "H138",
+      "date": "2026-06-14",
+      "type": "Исторический разбор",
+      "controls": [
+        "C07",
+        "C33"
+      ],
+      "source_record_sha256": "21e0b01cd31e19b0b08ea7e8e833fe3bdce0977fecfb250d7606503d4a7ed24c"
+    },
+    {
+      "id": "H139",
+      "date": "2026-06-12",
+      "type": "Исторический разбор",
+      "controls": [
+        "C27",
+        "C43"
+      ],
+      "source_record_sha256": "a274a73e1f67998f13bf1bc8235023df857235ae080e46f75d945d59e3ec51dd"
+    },
+    {
+      "id": "H140",
+      "date": "2026-06-11",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24",
+        "C28"
+      ],
+      "source_record_sha256": "cc0c041e0155443a5bc466e9b18c91f07cd522f5a734c7fc4ccc9554931d398b"
+    },
+    {
+      "id": "H141",
+      "date": "2026-06-11",
+      "type": "Исторический разбор",
+      "controls": [
+        "C31"
+      ],
+      "source_record_sha256": "d836dbb2cc3d20e2dafaf92ba138dc27ed0b5d8fbf0d638ac23f07195b8642f6"
+    },
+    {
+      "id": "H142",
+      "date": "2026-06-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28"
+      ],
+      "source_record_sha256": "ff5ed8977a667f53573826996a9a8e26b3c0917b363c303f6dba939c83c48ec7"
+    },
+    {
+      "id": "H143",
+      "date": "2026-06-26",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C24"
+      ],
+      "source_record_sha256": "1c02da5985a6b5d94b9eff7dfae2f5706df504338d7e7274b9c5b3a4ff0f2c8a"
+    },
+    {
+      "id": "H144",
+      "date": "2026-06-11",
+      "type": "Исторический разбор",
+      "controls": [
+        "C34",
+        "C23"
+      ],
+      "source_record_sha256": "fcbc7ff08a8dcda32816d7847c4c3de4a436e69891d289015b47150d53e28e2a"
+    },
+    {
+      "id": "H145",
+      "date": "2026-06-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C34"
+      ],
+      "source_record_sha256": "6faec911c9e577c0f7af72dfc1a070e17a0daf5ce7155ed27630b4df64c8d0fe"
+    },
+    {
+      "id": "H146",
+      "date": "2026-06-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C34",
+        "C10"
+      ],
+      "source_record_sha256": "d4505ad5cc7768074233e6a46996ccba1f34935b565aba8368a93f19a71b6794"
+    },
+    {
+      "id": "H147",
+      "date": "2026-06-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16"
+      ],
+      "source_record_sha256": "d62d7f945a554562c2d5cec24913f5984ebcfc57feac9722296147a86ef78a9d"
+    },
+    {
+      "id": "H148",
+      "date": "2026-05-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C02"
+      ],
+      "source_record_sha256": "5be13754760a72177791bebef2877f01a3fd1ccb91a7dad0fdf65b5d4bc444c0"
+    },
+    {
+      "id": "H149",
+      "date": "2026-05-31",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28",
+        "C18"
+      ],
+      "source_record_sha256": "1175ff2b6b538573f9a7f61354cc0155167206067acc96771564ba6d42e1761c"
+    },
+    {
+      "id": "H150",
+      "date": "2026-05-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09"
+      ],
+      "source_record_sha256": "ad00077649bd048e40f560d63169e7d9d1153382a8b47b83498cd2153faae1ae"
+    },
+    {
+      "id": "H151",
+      "date": "2026-05-30",
+      "type": "Исторический разбор",
+      "controls": [
+        "C32",
+        "C05"
+      ],
+      "source_record_sha256": "053b7b1db2acc98add70bb3f033725e823bfb4d5b7466c29433037cef4547f09"
+    },
+    {
+      "id": "H152",
+      "date": "2026-05-28",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C25"
+      ],
+      "source_record_sha256": "ba8ff5637236735f44c43f2b839a6c3be1c96633429893545755197c181408d8"
+    },
+    {
+      "id": "H153",
+      "date": "2026-05-27",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16",
+        "C28"
+      ],
+      "source_record_sha256": "bdbe811cfffeb8d53b443aff6a0b931991c74433ed28de8eb32945811fee4a7c"
+    },
+    {
+      "id": "H154",
+      "date": "2026-05-25",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26",
+        "C24"
+      ],
+      "source_record_sha256": "095f105f4f31d37ae1ed83bfdc32a071741c61e61327a68bc46839facb9fb95d"
+    },
+    {
+      "id": "H155",
+      "date": "2026-05-25",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C09"
+      ],
+      "source_record_sha256": "b87cef07f2c177f286b001ae80f7641dc9f7b69bcbc97825b37081fe0ba03962"
+    },
+    {
+      "id": "H156",
+      "date": "2026-05-22",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C15"
+      ],
+      "source_record_sha256": "fea38de0917ef7e1957988bbea1b7217af78d030d59cc575dcc134bc6a55cd89"
+    },
+    {
+      "id": "H157",
+      "date": "2026-05-22",
+      "type": "Исторический разбор",
+      "controls": [
+        "C32"
+      ],
+      "source_record_sha256": "86040126b3bc1c3d0b1bce9058685b028095fb84983a3470fe28e45725f821fd"
+    },
+    {
+      "id": "H158",
+      "date": "2026-05-22",
+      "type": "Исторический разбор",
+      "controls": [
+        "C27",
+        "C35"
+      ],
+      "source_record_sha256": "4fa8f590b9506a81059f89bfc0455579a55e771702b77bfcbed74daea7ec09cf"
+    },
+    {
+      "id": "H159",
+      "date": "2026-05-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28",
+        "C01"
+      ],
+      "source_record_sha256": "ef5362a0c80c29b6c122e9744077e1cefe79eaa7945b4aa8e560d8e31c8ed529"
+    },
+    {
+      "id": "H160",
+      "date": "2026-05-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C20"
+      ],
+      "source_record_sha256": "f81cc81feca64af0926f81a5ba87aa00ccf687c402afc067c6767d34419e23cf"
+    },
+    {
+      "id": "H161",
+      "date": "2026-05-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C16",
+        "C24"
+      ],
+      "source_record_sha256": "b67e4dd7456ab3fcb33d3d3e4024ceee8bd2d2ab8bdb0fe29352b251074da098"
+    },
+    {
+      "id": "H162",
+      "date": "2026-05-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C28"
+      ],
+      "source_record_sha256": "63ecb0bb626f8c1dc140b20242a9151ed52853a06af986ec20dfc53dfb036692"
+    },
+    {
+      "id": "H163",
+      "date": "2026-05-20",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C28",
+        "C18"
+      ],
+      "source_record_sha256": "44551df1c054a49b7cea5f6656966ed5bb6413f2e108078b6de6c747d2f4033c"
+    },
+    {
+      "id": "H164",
+      "date": "2026-05-17",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C21"
+      ],
+      "source_record_sha256": "4283793d2e357021b38b4520696bc22f69af3e6a0c2d487a8895abaf1825522b"
+    },
+    {
+      "id": "H165",
+      "date": "2026-05-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C42"
+      ],
+      "source_record_sha256": "46fd71a83f40a2d5accbf907d5fdf3456373f824b1bf043771a965e3c9e919c3"
+    },
+    {
+      "id": "H166",
+      "date": "2026-05-13",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C28"
+      ],
+      "source_record_sha256": "2ed0fb307697d75499991faf15727c1052b401a061fe5b6cbdd6a779520e84b3"
+    },
+    {
+      "id": "H167",
+      "date": "2026-05-12",
+      "type": "Исторический разбор",
+      "controls": [
+        "C33",
+        "C13"
+      ],
+      "source_record_sha256": "d4b7b5911f9bc28c8d1c3a3f165921123548aa108fefa5b2ec23982e35438513"
+    },
+    {
+      "id": "H168",
+      "date": "2026-05-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28",
+        "C05"
+      ],
+      "source_record_sha256": "5ef66762613394fbbb40be5ad23b3697fd6f18b25fcc1459bdc797f5d382c61f"
+    },
+    {
+      "id": "H169",
+      "date": "2026-05-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C23",
+        "C33"
+      ],
+      "source_record_sha256": "7d1911245e6153efd3e6c205e51b2a82840e657186e635be0f6f4dd531336dd0"
+    },
+    {
+      "id": "H170",
+      "date": "2026-05-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25",
+        "C22"
+      ],
+      "source_record_sha256": "9e0ac4726a527f62c8f23a746e5fa1b2e2471a615e93b46ba88aaaf1b3262b40"
+    },
+    {
+      "id": "H171",
+      "date": "2026-05-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C21"
+      ],
+      "source_record_sha256": "71eb528464843e43e6acbeabd1ce53c86851e323b050cf4646fb45e3742911db"
+    },
+    {
+      "id": "H172",
+      "date": "2026-05-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C30",
+        "C24"
+      ],
+      "source_record_sha256": "7d238be82a30d2fc8afacbd2b4e3525494427542add397de4fded28a3143b3e0"
+    },
+    {
+      "id": "H173",
+      "date": "2026-05-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C30",
+        "C16"
+      ],
+      "source_record_sha256": "a23341558119b4a217d48708a4f8329e7068e7d654267eccbc0aa86a842ff818"
+    },
+    {
+      "id": "H174",
+      "date": "2026-05-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C33",
+        "C15"
+      ],
+      "source_record_sha256": "89d27c37260a195b3368f2f4fe80e2ee372f672a7a4ce1d4491d54417ef2d7be"
+    },
+    {
+      "id": "H175",
+      "date": "2026-05-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25",
+        "C22"
+      ],
+      "source_record_sha256": "c5afc84e8b073cfd725500f4027ab80af308d59ee261c6104d46c5df617a1a53"
+    },
+    {
+      "id": "H176",
+      "date": "2026-05-05",
+      "type": "Исторический разбор",
+      "controls": [
+        "C31",
+        "C25"
+      ],
+      "source_record_sha256": "83a4104f51124e7eda70591848768e95bbfdedd41c6b5eb4f60f1b7c7930abb5"
+    },
+    {
+      "id": "H177",
+      "date": "2026-05-04",
+      "type": "Исторический разбор",
+      "controls": [
+        "C33",
+        "C23"
+      ],
+      "source_record_sha256": "d06263de1a96b50686fd0918a13736a7df5eca2b46a812f6b94c06c1d342693f"
+    },
+    {
+      "id": "H178",
+      "date": "2026-05-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28",
+        "C21"
+      ],
+      "source_record_sha256": "cfa8df1de26d2a2bbab63fe8d8bb4e340baa97d61bf897928f1abf6cc787d731"
+    },
+    {
+      "id": "H179",
+      "date": "2026-05-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C22"
+      ],
+      "source_record_sha256": "3120eefecf54e8148d358725b92234562f2ef69bfdfc59a9266a44d14c70c17a"
+    },
+    {
+      "id": "H180",
+      "date": "2026-05-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C22"
+      ],
+      "source_record_sha256": "ea69d03203b0442da7ff4d891e3f0b2cb97051b650363d94cd678b9e5d513626"
+    },
+    {
+      "id": "H181",
+      "date": "2026-05-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C28"
+      ],
+      "source_record_sha256": "9609e837a04fe8fbe52458d0befe27446184ccef091d9225bddc9b76caa3f876"
+    },
+    {
+      "id": "H182",
+      "date": "2026-05-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22"
+      ],
+      "source_record_sha256": "2ec9eb3d7af6ad59811643d7274ee829975d610a589c5ec9482f04e8d8d59259"
+    },
+    {
+      "id": "H183",
+      "date": "2026-05-02",
+      "type": "Исторический разбор",
+      "controls": [
+        "C36"
+      ],
+      "source_record_sha256": "7fadf066efad076079d0c83aa3898bb5f6902074ff9380f4fb0cdeaebfa7e530"
+    },
+    {
+      "id": "H184",
+      "date": "2026-05-01",
+      "type": "Исторический разбор",
+      "controls": [
+        "C20",
+        "C05"
+      ],
+      "source_record_sha256": "74d68b6cdd387c9ff529528454ac61034c955dba91ea5c86b2560d5838c89385"
+    },
+    {
+      "id": "H185",
+      "date": "2026-06-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C44",
+        "C15"
+      ],
+      "source_record_sha256": "fed43204ddad5f9d4427d741bdb7e614b4b2ac2063404147bbfa9823c05b137a"
+    },
+    {
+      "id": "H186",
+      "date": "2026-06-06",
+      "type": "Исторический разбор",
+      "controls": [
+        "C13"
+      ],
+      "source_record_sha256": "7f5acf7ee7f6c6523f49127397073a82a2e4b0261dca136fdc0373e15eb8266e"
+    },
+    {
+      "id": "H187",
+      "date": "2026-07-03",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C24"
+      ],
+      "source_record_sha256": "d5eadc2b77bb3258f133a351bf1d711012df56acc0e3502264e6944806f9dfd2"
+    },
+    {
+      "id": "H188",
+      "date": "2026-07-10",
+      "type": "Исторический разбор",
+      "controls": [
+        "C11",
+        "C25"
+      ],
+      "source_record_sha256": "3c512c3ccc7cbb3bdc845bda15c831125a36f5b4a6aaa8e62cbe68c82ea4c071"
+    },
+    {
+      "id": "H189",
+      "date": "2026-07-12",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24",
+        "C20"
+      ],
+      "source_record_sha256": "f8c04f478c3fd811f75025737d0ae2524ae183238eada07e8ad13a4ae2cc26ce"
+    },
+    {
+      "id": "H190",
+      "date": "2026-07-12",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C19",
+        "C22"
+      ],
+      "source_record_sha256": "6cad3f2ba5a2daa003a04052b57ca0fb7f04e2108ce580ea8f28ff4c7f8284ab"
+    },
+    {
+      "id": "H191",
+      "date": "2026-07-13",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C19",
+        "C20"
+      ],
+      "source_record_sha256": "fd1c80284377bf0894886a1eee9481ad34296973ff29c1b6c95c78379b0f9eb0"
+    },
+    {
+      "id": "H192",
+      "date": "2026-07-13",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C18",
+        "C13"
+      ],
+      "source_record_sha256": "92c182c629207a7861882a9498592045c278418bb08d11460eb088593216e706"
+    },
+    {
+      "id": "H193",
+      "date": "2026-07-14",
+      "type": "Исторический разбор",
+      "controls": [
+        "C35",
+        "C06"
+      ],
+      "source_record_sha256": "623367b6d60cfad931c55350a6026bbd663e2674ec41635fb849f3fd13e9541a"
+    },
+    {
+      "id": "H194",
+      "date": "2026-07-25",
+      "type": "Отозванный вывод; см. H195",
+      "controls": [
+        "C18",
+        "C29"
+      ],
+      "source_record_sha256": "4c394104e6930d2d600a0b4851d7dd82b8a39f35ac59cf076fd8f75023e6f876"
+    },
+    {
+      "id": "H195",
+      "date": "2026-07-25",
+      "type": "Исправление прежнего вывода",
+      "controls": [
+        "C18",
+        "C29",
+        "C12"
+      ],
+      "source_record_sha256": "f145f3b763a621378b419728d02d3aaf4d0622f9574770314b9820ecfb7549cd"
+    },
+    {
+      "id": "H196",
+      "date": "2026-08-04",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C09"
+      ],
+      "source_record_sha256": "4149fa5bc7bbafca197b5960054659865863fa9ae947a92d7c126f18571b0274"
+    },
+    {
+      "id": "H197",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C36",
+        "C14"
+      ],
+      "source_record_sha256": "74cb6aad2a0a4828f59c329e892fda0b7345585acdefe08fe9e18e2e6a075a2d"
+    },
+    {
+      "id": "H198",
+      "date": "2026-08-07",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05",
+        "C32"
+      ],
+      "source_record_sha256": "faeff339cb66c7eafb01f997f4b8f0638fd57abae60b3e2288142c00e6d726f4"
+    },
+    {
+      "id": "H199",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C15",
+        "C42"
+      ],
+      "source_record_sha256": "0d906d87b4dfa38a535eea4ac818aa9f18f07d82e4426e5327e17694a1f32fa0"
+    },
+    {
+      "id": "H200",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C06",
+        "C22"
+      ],
+      "source_record_sha256": "d961fca2ba38c21d4b70cf45920c712ac1bfa15ca228c6f7ce824bff17df4906"
+    },
+    {
+      "id": "H201",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17"
+      ],
+      "source_record_sha256": "1056865f4deb74128da6034d1072d23f042a9cac6a425de379bc089a1aced6ec"
+    },
+    {
+      "id": "H202",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C27",
+        "C17"
+      ],
+      "source_record_sha256": "d8a0515d0dbf96bedfea7476fbbf28107279b7b5fd3e149337580be2f1248138"
+    },
+    {
+      "id": "H203",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24",
+        "C01"
+      ],
+      "source_record_sha256": "5046e74ca87c8f64754c5e5f610c7b3d56fb5175dfc8911f92fe7fba06405054"
+    },
+    {
+      "id": "H204",
+      "date": "2026-08-08",
+      "type": "Полезный метод / корректный отказ",
+      "controls": [
+        "C19"
+      ],
+      "source_record_sha256": "8571709be85d1703e8494b4811335fd267ff90b1dc513cb8a521ce794668e49e"
+    },
+    {
+      "id": "H205",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C25",
+        "C22"
+      ],
+      "source_record_sha256": "c523a04463fc37e5c0e8091c6ffc18c3d6155cba8601d87538b2f656da8bc45c"
+    },
+    {
+      "id": "H206",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C09"
+      ],
+      "source_record_sha256": "b422d778fe15cda3ec6f0488a7cacecef0a0959f39ae2188c1168935ed88207f"
+    },
+    {
+      "id": "H207",
+      "date": "2026-08-08",
+      "type": "Исторический разбор",
+      "controls": [
+        "C23",
+        "C45"
+      ],
+      "source_record_sha256": "eccd8e504ea88b4011685d978f31e960b30dd2e499b05e1f54dad3796ad4293e"
+    },
+    {
+      "id": "H208",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C17",
+        "C10"
+      ],
+      "source_record_sha256": "0ccfbe26569e4b7dd486591b868a39a6e1c5141d610d6dd4630db4a0ed1cad77"
+    },
+    {
+      "id": "H209",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18"
+      ],
+      "source_record_sha256": "44bdc626dedcf7ae038159bbd7c0213cf59db2eb065ff834a635c151a04a825a"
+    },
+    {
+      "id": "H210",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C40",
+        "C20"
+      ],
+      "source_record_sha256": "3882c2c5521af80a958eb0515553b56dd44a4b7a503df48169e96359c31488fc"
+    },
+    {
+      "id": "H211",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C14",
+        "C18"
+      ],
+      "source_record_sha256": "0da60cc88b8a6db6587d06b561f151baff57cca61db73c545ab654d6bb7d66d1"
+    },
+    {
+      "id": "H212",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C36",
+        "C22"
+      ],
+      "source_record_sha256": "394f2fe68f2fc6462bbb021511446c50a1e246fe44c78be15a9937de85e439af"
+    },
+    {
+      "id": "H213",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C24",
+        "C15"
+      ],
+      "source_record_sha256": "e5304c8d512c605ead6d515897b0378a8b82f6da4e97ac2529b4a8363254428f"
+    },
+    {
+      "id": "H214",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C28",
+        "C05"
+      ],
+      "source_record_sha256": "22dd585a1df0b39b6b1beba324dacb518ee08f3dac75a845c0bb3e3c5902596c"
+    },
+    {
+      "id": "H215",
+      "date": "2026-08-09",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C20"
+      ],
+      "source_record_sha256": "4be6a85c7bedfec58daa6b3eab696a6be0b1319c40753bcf0178e2a7ceea944d"
+    },
+    {
+      "id": "H216",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C14"
+      ],
+      "source_record_sha256": "f6f2f24d9d63f91db9166b2317e697cd6093456e6ec90a69f569a90097f83121"
+    },
+    {
+      "id": "H217",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C34",
+        "C06"
+      ],
+      "source_record_sha256": "27bf7b488d805f88b6faa2ddd8a97f17638e7018be3866e85cf9ff18d068a340"
+    },
+    {
+      "id": "H218",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C34"
+      ],
+      "source_record_sha256": "6c2ea77275d8f1dddd1dade6214b586a079a126134b51559c1d7eb99a03127c8"
+    },
+    {
+      "id": "H219",
+      "date": "2026-08-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C48",
+        "C14"
+      ],
+      "source_record_sha256": "4da0c208dde792e3a1e8e5a4328bcb9ce49d8ed4ef1cdaa65b82d2ab5dc9b7ed"
+    },
+    {
+      "id": "H220",
+      "date": "2026-08-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C35",
+        "C18"
+      ],
+      "source_record_sha256": "43e5487f29cf9f893453e95769a256cbae81ad4a68751a4cc5f5ce88766dc403"
+    },
+    {
+      "id": "H221",
+      "date": "2026-08-23",
+      "type": "Исторический разбор",
+      "controls": [
+        "C27",
+        "C10"
+      ],
+      "source_record_sha256": "22a935779d3886b9eee91f783c76a61ced87b07a4716b4dc0b156d7b5b70d1a8"
+    },
+    {
+      "id": "H222",
+      "date": "2026-08-23",
+      "type": "Исторический разбор",
+      "controls": [
+        "C10",
+        "C43"
+      ],
+      "source_record_sha256": "652d8e0f0ec84563196f67a6b5b92cb752e1afa5daea665aca48126f4a9a029c"
+    },
+    {
+      "id": "H223",
+      "date": "2026-08-24",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26",
+        "C18"
+      ],
+      "source_record_sha256": "9b770477e76bd7319d2816f8fb9b1247d960afec32cd94d999bdfaf105ec1765"
+    },
+    {
+      "id": "H224",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C09",
+        "C30"
+      ],
+      "source_record_sha256": "66e00bf618fd15707213722ee66a615e16029bd26666362b2c9af07703d4e5a4"
+    },
+    {
+      "id": "H225",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C02"
+      ],
+      "source_record_sha256": "76936e045aa04db514318d51d67b568902471af21d95e78959782c5e3f9391b8"
+    },
+    {
+      "id": "H226",
+      "date": "2026-08-16",
+      "type": "Исторический разбор",
+      "controls": [
+        "C18",
+        "C22"
+      ],
+      "source_record_sha256": "e6af65d6b05a719b75a067dc1c7b979eece6c5201ccfb51b4f19e6cf9b35e9a5"
+    },
+    {
+      "id": "H227",
+      "date": "дата отдельно не установлена",
+      "type": "Исторический разбор",
+      "controls": [
+        "C50",
+        "C45"
+      ],
+      "source_record_sha256": "02592bf340ea40688e59a77cef94df56fd23e9a63ae599dcaed13631da598cef"
+    },
+    {
+      "id": "H228",
+      "date": "2026-09-19",
+      "type": "Исторический разбор",
+      "controls": [
+        "C37",
+        "C21"
+      ],
+      "source_record_sha256": "eccd0283ef8d05430e0043e0c2ef26c60ad5cac67d7ec0530363bb1db124c527"
+    },
+    {
+      "id": "H229",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C39",
+        "C05"
+      ],
+      "source_record_sha256": "407a30f264355a0a80b4dd284cd6db5d93e67f0ab0c075a38bd22abf4bbc4d87"
+    },
+    {
+      "id": "H230",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C49",
+        "C17"
+      ],
+      "source_record_sha256": "b7a8743a53c1c0a86f48c236e7fb568ddcecc62a6b64af0a7fb2f1d7ee9129f5"
+    },
+    {
+      "id": "H231",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C01",
+        "C11"
+      ],
+      "source_record_sha256": "492cd41cdb945032910a1d8f387d5cde314825d75bc783439344050cbefa1653"
+    },
+    {
+      "id": "H232",
+      "date": "2026-09-20",
+      "type": "Исторический разбор",
+      "controls": [
+        "C21",
+        "C10"
+      ],
+      "source_record_sha256": "7ece3b516464ad19c60b0000a2301802bb364f068ace56e2b8f1f6de5411590f"
+    },
+    {
+      "id": "H233",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C40"
+      ],
+      "source_record_sha256": "823661d0aca9195d59f37f838344e67dd01ff4bc0a5d654cb524adf6c16873c6"
+    },
+    {
+      "id": "H234",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C04"
+      ],
+      "source_record_sha256": "9670f2381541386ef4cfcff76667c3b54437cd779fd5a83381d6ab250da22876"
+    },
+    {
+      "id": "H235",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C22",
+        "C01"
+      ],
+      "source_record_sha256": "44ea918c7b3e7261f2a3edc1970e81ca903f7c13bc7f31c44b33e26f7b0c2101"
+    },
+    {
+      "id": "H236",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C38"
+      ],
+      "source_record_sha256": "dfc3bebe793eda07c0239f53265caa4c0927cf6ab017641b3a55775fb0425bc8"
+    },
+    {
+      "id": "H237",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C05"
+      ],
+      "source_record_sha256": "1b26e303079cbc30787576b31084f4014b203958c108a426c1099f08dd65c7ee"
+    },
+    {
+      "id": "H238",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C26",
+        "C18"
+      ],
+      "source_record_sha256": "60df593968d177db74ca0a9898450115b050a23dd01a34260c4babba2db69ff4"
+    },
+    {
+      "id": "H239",
+      "date": "2026-09-21",
+      "type": "Исторический разбор",
+      "controls": [
+        "C41",
+        "C43"
+      ],
+      "source_record_sha256": "3999b2ed3c4f94b61ec1a2559f25126a848ffc295dcf3a5dc45ec4c97a13b643"
+    }
+  ]
+}
